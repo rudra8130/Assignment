@@ -121,13 +121,6 @@ To change an icon, import another one from `lucide-react` and update the `icon` 
 - **Solution cards:** 4 → 2 → 1 columns.
 - **Carousels (products, projects):** all items visible on wide screens; scroll-snap with arrow buttons on smaller screens.
 
-## Build Status
-
-- [x] Step 1 – Navbar and Hero
-- [x] Step 2 – Solutions grid and Help banner
-- [x] Step 3 – Popular Products carousel
-- [x] Step 4 – Why Choose Vajra LED and Projects gallery
-- [ ] Step 5 – Catalogue banner, "Have a Lighting Requirement?" CTA and bottom icon strip
 
 ## Accessibility Notes
 
