@@ -6,7 +6,7 @@ const products = [
     {
         name: "LED High Bay Light",
         text: "For industrial & warehouse applications.",
-        image: "high-bay.png",
+        image: "high-bay-light.png",
     },
     {
         name: "LED Flood Light",
