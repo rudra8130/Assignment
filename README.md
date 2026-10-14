@@ -2,6 +2,8 @@
 
 A responsive "Solutions" landing page for **Vajra LED**, built with React, Tailwind CSS v4 and Lucide icons.
 
+## Live Link: https://assignment-two-orpin-88.vercel.app/
+
 ## Tech Stack
 
 - [React](https://react.dev/) (via [Vite](https://vite.dev/))
