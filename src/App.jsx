@@ -18,8 +18,9 @@ export default function App() {
         <PopularProducts />
         <WhyChoose />
         <Projects />
-        <LightingFooter />
       </main>
+
+      <LightingFooter />
     </>
   );
 }
